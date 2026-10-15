@@ -1,5 +1,9 @@
 ## Open B4
 
+This repository is hosted for code indexing with DeepWiki. The original OpenB4
+project is by [Abusez on Codeberg](https://codeberg.org/abusez/OpenB4).
+Credit for the original project belongs to Abusez and the contributors listed below.
+
 ---
 
 <div align="center">
